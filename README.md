@@ -1,2 +1,1 @@
-[![github stats](https://github.com/guolinke/test/blob/main/github-metrics.svg)]
-
+![github metrics](https://github.com/guolinke/github_metrics/blob/main/github-metrics.svg)
